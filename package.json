@@ -1,8 +1,11 @@
 {
-  "name": "pdftk-lambda",
+  "name": "pdftk-gcf",
   "version": "0.0.5",
   "main": "index.js",
-  "repository": "https://github.com/unshift/pdftk-lambda.git",
+  "repository": "https://github.com/fgilio/pdftk-gcf",
   "author": "Ben <menubar@protonmail.com>",
+  "contributors": [
+    "Franco Gilio <franco.gilio@gmail.com> (https://fgilio.com)"
+  ],
   "license": "MIT"
 }
